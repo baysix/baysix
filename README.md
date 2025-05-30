@@ -32,44 +32,25 @@ const developer = {
 ---
 
 ## 🛠️ Tech Stack
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,jquery" height="50" />
+</div>
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,html,css,jquery,next" />
-</p>
+### Styling & UI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind" height="50" />
+</div>
 
-### 🎨 Styling & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind" />
-</p>
+### State Management
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=redux" height="50" />
+</div>
 
-### 🔄 State Management
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,recoil" />
-  <img src="https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
-### 📊 Data & Charts
-<p>
-  <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apollographql&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### 🔧 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,vite,webpack" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-</p>
+### Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,githubactions,webpack,vite" height="50" />
+</div>
 
 
 

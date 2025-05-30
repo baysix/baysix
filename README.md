@@ -4,11 +4,6 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=600&lines=Senior+Frontend+Developer;9+Years+Experience;React+%7C+JavaScript+Expert;Team+Leader+%26+Mentor)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iiiizxc123@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.notion.so/95cff13806714fefba31cc8227fc76c9?pvs=4)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01058004124)
-[![Location](https://img.shields.io/badge/Seoul,%20Korea-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
-
 </div>
 
 ---
@@ -75,70 +70,6 @@ const developer = {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
----
-
-## 🏆 Career Highlights
-
-### 🎯 **현재: ㈜케이원 피에스** `2024.01 ~ 현재`
-**모바일사업부 프로젝트 리더 | 과장**
-
-#### 🥩 **고기 자판기(세소정) 키오스크 개발**
-- **5인 개발팀 리딩** (백엔드 2명, 프론트엔드 3명)
-- **애자일 방법론 도입** (Confluence, Jira) → 일정 준수율 **70% 달성**
-- **AWS 인프라 최적화** → 시스템 응답속도 **30% 개선**
-- **CI/CD 파이프라인 구축** → 배포시간 **50% 단축**
-- **Web Serial API 활용** → 하드웨어 실시간 데이터 처리 **98% 성공률**
-
-#### 📱 **요리조리 배달앱** (ReactNative)
-- React Native 초기 환경설정 및 아키텍처 설계
-- 화면 퍼블리싱 및 API 통신 테스트
-
----
-
-### 💼 **SK매직(렌탈)** `2023.06 ~ 2023.12`
-**React 공통 로직 매니저 | 프리랜서**
-
-- **공통 컴포넌트 모듈화** → 개발 효율성 **25% 향상**
-- **IBSHEET 버전 업그레이드** → 데이터 조회 속도 **15% 개선**
-- **표준화 작업** → 컴포넌트 일관성 및 유지보수성 강화
-- **개발자 온보딩 시간 15% 단축** (튜토리얼 페이지 제작)
-
----
-
-### 🏢 **㈜인라이플** `2020.06 ~ 2023.03`
-**아이봇부서 대리 | AI 챗봇 프론트엔드**
-
-#### 📊 **최고관리자 통계 페이지 컨버팅**
-- **PHP → React 전환** → 로딩 속도 **40% 개선**
-- **아토믹 디자인 패턴 적용** → 재사용성 **30% 향상**
-- **데이터 시각화** (Apexcharts, Recharts) → 분석 효율성 증대
-
-#### 🤖 **AI 챗봇 개발**
-- **다양한 템플릿 지원** (B, C, D 레이아웃)
-- **전북은행 커스터마이징** → 고객 만족도 **20% 증가**
-- **매체사 광고 스크립트 개발** → 광고 효과 개선
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎨 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
-
----
 
 ## 🎯 Philosophy
 
@@ -160,28 +91,6 @@ const myPhilosophy: DeveloperPhilosophy = {
 };
 ```
 
----
-
-## 🌟 Key Achievements
-
-- 🏆 **시스템 성능 최적화**: AWS 인프라 최적화로 **30% 응답속도 개선**
-- ⚡ **배포 자동화**: GitHub Actions CI/CD로 **50% 배포시간 단축**  
-- 📊 **데이터 처리**: Web Serial API로 **98% 하드웨어 통신 성공률**
-- 🎨 **컴포넌트 아키텍처**: 재사용 가능한 구조로 **25% 개발 효율성 향상**
-- 👥 **팀 리더십**: 5인 개발팀 리딩 및 애자일 프로세스 도입
-- 🔄 **레거시 모더나이제이션**: PHP → React 전환으로 **40% 성능 개선**
-
----
-
-## 💡 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [React 성능 최적화 전략 - Virtual DOM과 리렌더링 최적화](https://your-blog.com)
-- [Web Serial API를 활용한 하드웨어 통신 구현기](https://your-blog.com)
-- [팀 리딩 경험담 - 애자일 방법론 도입기](https://your-blog.com)
-- [AWS 인프라 최적화로 30% 성능 개선하기](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
 

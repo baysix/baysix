@@ -34,7 +34,7 @@ const developer = {
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,github,aws" />
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -95,8 +95,6 @@ const myPhilosophy: DeveloperPhilosophy = {
 <div align="center">
 
 ### 🤝 **"함께 성장하고, 더 나은 웹을 만들어가고 싶습니다!"**
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourusername&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 *"클린한 코드와 탁월한 사용자 경험을 추구하는 개발자"*
 

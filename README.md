@@ -1,155 +1,194 @@
-<h1 align="center">👋 안녕하세요, 저는 박영식입니다!</h1>
-<p align="center">
-  🧑‍💻 React 기반 프론트엔드 개발자 | 9년 경력<br/>
-  🚀 키오스크 · 관리자 시스템 · 챗봇 · 공공 웹사이트 개발
-</p>
+# 👋 안녕하세요, 박영식입니다!
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=600&lines=Senior+Frontend+Developer;9+Years+Experience;React+%7C+JavaScript+Expert;Team+Leader+%26+Mentor)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iiiizxc123@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.notion.so/95cff13806714fefba31cc8227fc76c9?pvs=4)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01058004124)
+[![Location](https://img.shields.io/badge/Seoul,%20Korea-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+
+</div>
 
 ---
 
-## 🧾 About Me
+## 🚀 About Me
 
-안녕하세요! 저는 다양한 산업군에서 웹 개발 경험을 쌓아온 9년차 프론트엔드 개발자 박영식입니다.  
-협업과 커뮤니케이션을 중심으로 프로젝트를 성공적으로 리딩한 경험이 있으며, Web Serial API부터 AWS 인프라 구성, 공통 컴포넌트 설계까지 폭넓은 기술 역량을 보유하고 있습니다.
+웹개발자로써 8년1개월의 경력을 보유하고 있습니다. React.js, JSP, jQuery, JavaScript, CSS3, HTML5 등 다양한 기술을 숙련하여 프로젝트를 성공적으로 이끌어왔습니다.
 
----
+다양한 프로젝트를 통해 React.js를 중심으로 다양한 웹 개발 기술을 활용하여 솔루션을 제공했습니다. 모바일사업부에서 고기 자판기 키오스크 개발을 리딩하며 인프라 구축, 배포 자동화, 데이터 처리 등 다방면에서 역할을 수행했습니다.
 
-## 🛠 Skills
+(주)케이원 피에스를 비롯한 여러 기업에서 웹개발 업무를 수행하면서 고객 요구사항에 부합하는 최적의 솔루션을 제공하고 사용자 경험을 향상시켰습니다. SK매직(렌탈), 주식회사인라이플에서 다양한 업무를 수행하며 팀원들과의 협업을 통해 효율적인 개발 프로세스를 구축했습니다.
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Serial_API-000000?style=flat&logo=usb&logoColor=white" />
-</p>
+경험과 역량을 토대로 혁신적인 웹 개발을 추구하며, 끊임없는 도전과 성장을 통해 더 나은 웹 서비스를 제공하고자 합니다. 새로운 도전에 적극적으로 임해 소통과 협업을 통해 높은 수준의 결과물을 이끌어내겠습니다. 함께 일하게 된다면 팀의 성과를 함께 나누고, 서로의 발전을 이끌어낼 것을 약속드립니다.
 
----
-
-## 📌 주요 프로젝트 (전체 이력 포함)
-
-### 1️⃣ 고기 자판기(세소정) 키오스크 개발 – (주)케이원피에스 (2024.02~진행중)
-**주요 역할**: 키오스크 시리얼 통신 담당 및 프론트엔드 리딩  
-- 5인 개발팀(백2, 프론트3) 리딩 및 애자일 협업(Jira, Confluence)
-- AWS 인프라 구성(S3, EC2, Route53, CloudFront)으로 응답속도 30% 개선
-- Github Actions CI/CD 구축으로 배포 시간 50% 단축
-- Web Serial API 활용해 자판기 하드웨어와 실시간 통신(데이터 처리 성공률 98%)
-- React 기반 웹앱 설계 및 Spring JPA 연동 구현
+```javascript
+const developer = {
+  name: "박영식",
+  role: "Senior Frontend Developer & Team Leader",
+  experience: "9 years",
+  location: "Seoul, Korea",
+  focus: ["React Ecosystem", "Team Leadership", "System Architecture"],
+  passion: "Building scalable web solutions with great user experience"
+};
+```
 
 ---
 
-### 2️⃣ 고기 자판기(세소정) 어드민 페이지 개발 – (주)케이원피에스 (2024.02~진행중)
-**주요 역할**: 어드민 페이지 프론트 담당 및 리딩  
-- React 기본 세팅 및 API 통신 최적화 (React Query + Axios)
-- 전역 상태 관리에 Recoil 도입 (UI 렌더링 30% 개선)
-- 초기 프로토타입 완성 후 고객사 피드백 획득
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🎨 Styling & UI
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔄 State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=facebook&logoColor=white)
+
+### 📊 Data & Charts
+![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apollographql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![CloudFront](https://img.shields.io/badge/Amazon_CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Route53](https://img.shields.io/badge/Amazon_Route53-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔧 Tools & Others
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
-### 3️⃣ SK매직 렌탈서비스 운영 및 개발 – 프리랜서 (2023.06~2023.12)
-**주요 역할**: React 공통 로직 매니저 및 운영담당자  
-- styled-components 활용 공통 컴포넌트 모듈화 (개발 효율 25% ↑)
-- IBSHEET 데이터 그리드 업그레이드로 성능 개선
-- 각 부서별 FormData 컴포넌트 표준화
-- 컴포넌트 튜토리얼 페이지 제작으로 온보딩 시간 15% 단축
+## 🏆 Career Highlights
+
+### 🎯 **현재: ㈜케이원 피에스** `2024.01 ~ 현재`
+**모바일사업부 프로젝트 리더 | 과장**
+
+#### 🥩 **고기 자판기(세소정) 키오스크 개발**
+- **5인 개발팀 리딩** (백엔드 2명, 프론트엔드 3명)
+- **애자일 방법론 도입** (Confluence, Jira) → 일정 준수율 **70% 달성**
+- **AWS 인프라 최적화** → 시스템 응답속도 **30% 개선**
+- **CI/CD 파이프라인 구축** → 배포시간 **50% 단축**
+- **Web Serial API 활용** → 하드웨어 실시간 데이터 처리 **98% 성공률**
+
+#### 📱 **요리조리 배달앱** (ReactNative)
+- React Native 초기 환경설정 및 아키텍처 설계
+- 화면 퍼블리싱 및 API 통신 테스트
 
 ---
 
-### 4️⃣ 최고관리자 통계 페이지 컨버팅 – (주)인라이플 (2021.12~2023.03)
-**주요 역할**: React 개발 및 운영  
-- PHP 시스템을 React로 전환하여 로딩속도 40% 개선
-- ApexCharts, Recharts 도입으로 데이터 시각화 개선
-- 아토믹 디자인 적용으로 컴포넌트 재사용성 30% 향상
+### 💼 **SK매직(렌탈)** `2023.06 ~ 2023.12`
+**React 공통 로직 매니저 | 프리랜서**
+
+- **공통 컴포넌트 모듈화** → 개발 효율성 **25% 향상**
+- **IBSHEET 버전 업그레이드** → 데이터 조회 속도 **15% 개선**
+- **표준화 작업** → 컴포넌트 일관성 및 유지보수성 강화
+- **개발자 온보딩 시간 15% 단축** (튜토리얼 페이지 제작)
 
 ---
 
-### 5️⃣ AI 챗봇 프론트엔드 개발 – (주)인라이플 (2020.06~2023.01)
-**주요 역할**: 챗봇 UI 및 클라이언트 개발  
-- 다양한 템플릿(B, C, D) UI 개발
-- 전북은행 전용 챗봇 커스터마이징 수행
-- 클라이언트 소통 및 요구사항 적극 반영
+### 🏢 **㈜인라이플** `2020.06 ~ 2023.03`
+**아이봇부서 대리 | AI 챗봇 프론트엔드**
 
----
+#### 📊 **최고관리자 통계 페이지 컨버팅**
+- **PHP → React 전환** → 로딩 속도 **40% 개선**
+- **아토믹 디자인 패턴 적용** → 재사용성 **30% 향상**
+- **데이터 시각화** (Apexcharts, Recharts) → 분석 효율성 증대
 
-### 6️⃣ 어드민 페이지 프론트 작업 – (주)인라이플 (2021.01~2021.02)
-- Spring + JSTL 기반 어드민 퍼블리싱 및 기능 개발
-
----
-
-### 7️⃣ 슈퍼어드민 대시보드 개발 – (주)인라이플 (2020.08~2021.01)
-- 통계 및 회원 관리 페이지 React로 개발
-
----
-
-### 8️⃣ 아웃바이저 퍼블리싱 – (주)인라이플 (2020.06~2020.08)
-- 스타일컴포넌트를 활용한 신규 서비스 퍼블리싱
-
----
-
-### 9️⃣ 동호회 매칭 플랫폼 개발 – (주)에이앤디 (2019.12~2020.01)
-- 강원도 청년창업사관학교 지원 사업 참여
-- 사업계획서, PPT 발표, 플랫폼 기획
-
----
-
-### 🔟 강원대학교 다전공/교원초빙 사이트 개발 – (주)에이앤디 (2017.08~2020.02)
-- 그누보드 CMS 기반 강원대 홈페이지 3종 개발
-
----
-
-### 1️⃣1️⃣ 춘천 소상공인 쇼핑몰 제작 – (주)에이앤디 (2017.08~2020.02)
-- 영카트 CMS 기반 지역 쇼핑몰 다수 구축
-
----
-
-### 1️⃣2️⃣ 상세페이지 자동화 솔루션 – (주)케이아이비 (2017.01~2017.03)
-- 11번가 상세페이지 자동화 웹퍼블리싱
-- 솔루션 테스트 및 오류 검수 수행
-
----
-
-### 1️⃣3️⃣ 대쉬앤닷 자동화 연구원 – (주)케이아이비 (2016.09~2016.11)
-- 정부지원 사업 참여, 웹퍼블리싱 및 테스트
-
----
-
-### 1️⃣4️⃣ KIB 쇼핑몰/홈페이지 제작 – (주)케이아이비 (2015.10~2017.06)
-- 카페24, 그누보드 기반 사이트 다수 제작
-
----
-
-## 🧑‍🎓 Education
-
-- 한림대학교 컴퓨터공학과 (2012~2016)  
-- 한국소프트웨어산업협회 JAVA/Web 교육 수료
+#### 🤖 **AI 챗봇 개발**
+- **다양한 템플릿 지원** (B, C, D 레이아웃)
+- **전북은행 커스터마이징** → 고객 만족도 **20% 증가**
+- **매체사 광고 스크립트 개발** → 광고 효과 개선
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiiizxc123&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iiiizxc123&theme=default" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 💬 나를 표현하는 해시태그
+## 🎨 Activity Graph
 
-`#불굴의의지` `#긍정의아이콘` `#협업중심` `#성장지향형`
-
----
-
-## 📬 Contact
-
-📧 Email: iiiizxc123@naver.com  
-📂 포트폴리오: [Notion 링크](https://www.notion.so/95cff13806714fefba31cc8227fc76c9?pvs=4)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=iiiizxc123.iiiizxc123" />
-</p>
+## 🎯 Philosophy
+
+```typescript
+interface DeveloperPhilosophy {
+  teamwork: "혼자보다는 팀과 함께, 소통을 통한 협업";
+  growth: "끊임없는 도전과 학습을 통한 성장";
+  code: "클린하고 확장 가능한 코드 작성";
+  leadership: "팀원들과 함께 성장하는 리더십";
+  attitude: "#불굴의의지 #긍정의아이콘";
+}
+
+const myPhilosophy: DeveloperPhilosophy = {
+  teamwork: "다양하고 클린한 개발을 위해서는 많은 대화와 팀워크가 중요합니다.",
+  growth: "새로운 기술에 대한 호기심과 지속적인 학습으로 더 나은 개발자가 되고자 합니다.",
+  code: "유지보수하기 쉽고 확장 가능한 아키텍처를 지향합니다.",
+  leadership: "팀원들의 성장과 함께하는 리더가 되겠습니다.",
+  attitude: "어떤 어려움도 긍정적으로 해결해 나가겠습니다."
+};
+```
+
+---
+
+## 🌟 Key Achievements
+
+- 🏆 **시스템 성능 최적화**: AWS 인프라 최적화로 **30% 응답속도 개선**
+- ⚡ **배포 자동화**: GitHub Actions CI/CD로 **50% 배포시간 단축**  
+- 📊 **데이터 처리**: Web Serial API로 **98% 하드웨어 통신 성공률**
+- 🎨 **컴포넌트 아키텍처**: 재사용 가능한 구조로 **25% 개발 효율성 향상**
+- 👥 **팀 리더십**: 5인 개발팀 리딩 및 애자일 프로세스 도입
+- 🔄 **레거시 모더나이제이션**: PHP → React 전환으로 **40% 성능 개선**
+
+---
+
+## 💡 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [React 성능 최적화 전략 - Virtual DOM과 리렌더링 최적화](https://your-blog.com)
+- [Web Serial API를 활용한 하드웨어 통신 구현기](https://your-blog.com)
+- [팀 리딩 경험담 - 애자일 방법론 도입기](https://your-blog.com)
+- [AWS 인프라 최적화로 30% 성능 개선하기](https://your-blog.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+
+### 🤝 **"함께 성장하고, 더 나은 웹을 만들어가고 싶습니다!"**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourusername&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+*"클린한 코드와 탁월한 사용자 경험을 추구하는 개발자"*
+
+</div>
